@@ -76,6 +76,10 @@ The analysis reveals that customer churn is influenced by factors such as age, m
 
 
 
+"In this project, I analyzed various factors affecting customer churn, such as age, marital status, service usage, payment methods, and satisfaction. I found that younger customers and those on monthly contracts were more likely to churn, while offering additional services and high customer satisfaction helped retain customers. Based on these findings, I recommend improving customer satisfaction, providing bundled services, and offering more flexible contract options to reduce churn."
+
+
+
 ## Next Steps
 
 - **Predictive Model Development**: Build machine learning models to predict churn and proactively implement retention strategies.
@@ -88,6 +92,7 @@ The analysis reveals that customer churn is influenced by factors such as age, m
 - **Data Cleaning**: Missing data imputation, outlier detection and removal, duplicate removal, data transformation
 - **Data Exploration and Statistical Analysis** to identify trends, patterns, and churn predictors
 - **Churn Prediction Models** (future work)
+
 
  
  
