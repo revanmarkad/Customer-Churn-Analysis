@@ -79,6 +79,7 @@ The analysis reveals that customer churn is influenced by factors such as age, m
 "In this project, I analyzed various factors affecting customer churn, such as age, marital status, service usage, payment methods, and satisfaction. I found that younger customers and those on monthly contracts were more likely to churn, while offering additional services and high customer satisfaction helped retain customers. Based on these findings, I recommend improving customer satisfaction, providing bundled services, and offering more flexible contract options to reduce churn."
 
 
+"I used a relational database for this project. The data is structured across multiple tables, such as customer information, payment details, service usage, and churn analysis. I performed SQL queries to analyze relationships between these tables and derive insights on customer behavior and churn patterns."
 
 ## Next Steps
 
